@@ -1,0 +1,17 @@
+#For execution:
+#streamlit run c:/Users/10119145/Desktop/Maths/app.py
+#streamlit run app.py #another option
+
+#To quit:
+#Press Ctrl + C on your keyboard while the terminal window is active.
+
+os
+re
+sympy
+streamlit
+PIL
+numpy
+cv2
+pytesseract
+matplotlib.pyplot
+fitz  # PyMuPDF
